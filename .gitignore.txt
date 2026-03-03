@@ -1,0 +1,4 @@
+__pycache__/
+alert_config.json
+whitelist.json
+blacklist.json
